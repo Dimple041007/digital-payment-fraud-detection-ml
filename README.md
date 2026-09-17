@@ -184,9 +184,6 @@ Potential improvements include:
 * Adding model monitoring and drift detection.
 
 ## Author
+Dimple 
+BBA fintech and AI 
 
-**Gurleen Kaur**
-
-BBA FinTech & AI Student
-
-Interested in FinTech, Artificial Intelligence, Machine Learning, and financial technology solutions.
